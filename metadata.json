@@ -1,0 +1,6 @@
+{
+  "name": "Moore Mealy",
+  "description": "Interactive Moore to Mealy Automata Machine Converter with dynamic visual state diagrams, step-by-step conversion player, and practice mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
